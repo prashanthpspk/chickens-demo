@@ -4,3 +4,6 @@ fish
 monkey
 cow
 parrot
+Rabbit
+Horse
+Goat
